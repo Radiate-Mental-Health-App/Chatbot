@@ -1,0 +1,27 @@
+version: "2.0"
+nlu:
+- intent: search_google
+  examples: |
+    - Cek berita terjadi tsunami di Aceh
+    - Cek berita gadis ular menggemparkan dunia
+    - cek berita Video Gempa Cianjur
+    - cek berita hoaks
+    - cek berita informasi hoaks
+    - cari informasi
+    - cek berita Vaksin Polio Bill Gates Justru Membuat Anak-Anak di India Lumpuh
+    - Cek berita Angin Puting beliung dan banjir terjang Cianjur setelah Gempa
+    - cek berita sambo
+    - cek berita tsunami aceh
+    - Cek berita perubahan tarif transaksi bank BRI
+- intent: question
+  examples: |
+    - cara efektif untuk mengatasi situs-situs yang menyebarkan informasi hoaks?
+    - visi Serikat Jurnalis untuk Keberagaman (SEJUK)
+    - astaga
+    - laptop
+    - tips masyarakat dalam membuat PSA anti-hoax
+    - bagaimana cara MUI menangkal hoax bertema agama?
+    - bye bye
+    - goodbye
+    - seberapa efektif iklan layanan masyarakat (PSA) dalam menangkal hoax?
+    

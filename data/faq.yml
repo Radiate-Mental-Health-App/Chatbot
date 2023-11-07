@@ -1,0 +1,199 @@
+nlu: 
+- intent: question
+  examples: | 
+    - What does it mean to have a mental illness?
+    - Who does mental illness affect?
+    - What causes mental illness?
+    - What are some of the warning signs of mental illness?
+    - Can people with mental illness recover?
+    - What should I do if I know someone who appears to have the symptoms of a mental disorder?
+    - How can I find a mental health professional for myself or my child?
+    - What treatment options are available?
+    - If I become involved in treatment, what do I need to know?
+    - What is the difference between mental health professionals?
+    - How can I find a mental health professional right for my child or myself?
+    - If I become involved in treatment what do I need to know?
+    - Where else can I get help?
+    - What should I know before starting a new medication?
+    - If I feel better after taking medication, does this mean I am "cured" and can stop taking it?
+    - How can I get help paying for my medication?
+    - Where can I go to find therapy
+    - Where can I learn about types of mental health treatment?
+    - What are the different types of mental health professionals?
+    - Where can I go to find a support group?
+    - Where can I go to find inpatient care?
+    - Where can I go to find other local services?
+    - Where can I learn more information about clinical trials?
+    - Where can I learn more information about creating a Psychiatric Advance Directive?
+    - What is mental health?
+    - What do I do if the support doesn't help?
+    - Can you prevent mental health problems?
+    - Are there cures for mental health problems?
+    - What causes mental health problems?
+    - What do I do if I'm worried about my mental health?
+    - How do I know if I'm unwell?
+    - What should I do if I'm worried about a friend or relative?
+    - How do I deal with someone telling me what to do?
+    - Why do I need to keep informed?
+    - How can I tell if health information is good or bad?
+    - Why do I need a plan?
+    - How can I maintain social connections? What if I feel lonely?
+    - How can I take care of my physical health?
+    - How can I use distraction to manage difficult thoughts or feelings?
+    - How can I reframe the situation and find more balanced perspectives?
+    - How can I challenge thinking traps?
+    - How can I manage grief?
+    - How can I find a doctor, psychiatrist, psychologist, or counsellor?
+    - How can I see a psychiatrist?
+    - How can I see a psychologist?
+    - How can I see a counsellor?
+    - How can I find a support group?
+    - Where can I find child and youth mental health services?
+    - Where can older adults find help for mental health concerns?
+    - Where can I find self-help materials for depression?
+    - Where can I find self-help materials for anxiety?
+    - I'm having a hard time coping with a physical health problem. Where can I find help?
+    - When is substance use a problem? Where can I go for help?
+    - Where can I find free or low-cost counselling?
+    - Can I get help paying for prescription medications?
+    - How can I pay for mental health care?
+    - How do I apply for income assistance?
+    - What is MSP?
+    - What is a referral?
+    - What's the difference between a psychiatrist and a registered psychologist?
+    - What's the difference between psychotherapy and counselling?
+    - What's the difference between CBT and DBT?
+    - What's the difference between antidepressants?
+    - I received a diagnosis but I don't think it's right. What can I do?
+    - I was prescribed an antidepressant or other psychiatric medication but I don't think it's working. What can I do?
+    - An adult in my life seems ill and won't find help. What can I do?
+    - I'm worried about my child or teenager. Where can I find help?
+    - Someone I care about has a brain injury. Where can I find more information?
+    - Someone I love has been diagnosed with depression. How can I help?
+    - Someone I love has been diagnosed with schizophrenia. How can I help?
+    - I'm a young person and one of my parents has a mental illness. What can I do?
+    - I have thoughts of suicide, or someone I care about is talking about suicide. What should I do?
+    - Cannabis is legally allowed to 19+ but there are doctor groups saying it's potentially harmful to age 25. Any use or certain use? What's myth and what's fact? If I'm a parent, what should I tell my young adult?
+    - What's the difference between mental health and mental illness?
+    - Where can I find more information about depression?
+    - What's the difference between anxiety and an anxiety disorder?
+    - What's the difference between anxiety and stress?
+    - What's the difference between sadness and depression?
+    - What is dysthymia or persistent depressive disorder?
+    - What is cyclothymic disorder?
+    - What does rapid cycling mean?
+    - Where can I find information and help for borderline personality disorder?
+    - What is schizoid personality disorder?
+    - What is antisocial personality disorder?
+    - What is obsessive-compulsive personality disorder?
+    - What is binge-eating disorder?
+    - What's the difference between dissociative identity disorder (multiple personality disorder) and schizophrenia?
+    - What's the difference between psychosis and schizophrenia?
+    - What are positive and negative symptoms?
+    - What is a prodrome?
+    - I'm an adult and I think I might have ADHD. What can I do next?
+    - What's the difference between substance use and addiction?
+    - How can I find help for an alcohol or drug use problem?
+    - How do I know if I'm drinking too much?
+    - If cannabis is dangerous, why are we legalizing it?
+    - How can I convince my kids not to use drugs?
+    - What is the legal status (and evidence) of CBD oil?
+    - What is the evidence on vaping?
+    - Apa yang dimaksud dengan penyakit mental?
+    - Siapa yang terpengaruh oleh penyakit mental?
+    - Apa penyebab penyakit mental?
+    - Apa sajakah tanda-tanda peringatan penyakit mental?
+    - Apakah penderita penyakit jiwa bisa sembuh?
+    - Apa yang harus saya lakukan jika saya mengenal seseorang yang tampaknya memiliki gejala gangguan jiwa?
+    - Bagaimana saya bisa menemukan ahli kesehatan mental untuk diri saya sendiri atau anak saya?
+    - Pilihan pengobatan apa yang tersedia?
+    - Jika saya terlibat dalam pengobatan, apa yang perlu saya ketahui?
+    - Apa perbedaan antara profesional kesehatan mental?
+    - Bagaimana saya dapat menemukan ahli kesehatan mental yang tepat untuk anak saya atau saya sendiri?
+    - Jika saya terlibat dalam pengobatan, apa yang perlu saya ketahui?
+    - Di mana lagi saya bisa mendapatkan bantuan?
+    - Apa yang harus saya ketahui sebelum memulai pengobatan baru?
+    - Jika saya merasa lebih baik setelah minum obat, apakah ini berarti saya sudah “sembuh” dan dapat berhenti meminumnya?
+    - Bagaimana saya bisa mendapatkan bantuan untuk membayar pengobatan saya?
+    - Ke mana saya bisa mencari terapi
+    - Di mana saya dapat mempelajari jenis-jenis perawatan kesehatan mental?
+    - Apa saja jenis-jenis profesional kesehatan mental?
+    - Di mana saya bisa mencari kelompok pendukung?
+    - Ke mana saya bisa mencari layanan rawat inap?
+    - Di mana saya dapat mencari layanan lokal lainnya?
+    - Di mana saya dapat memperoleh informasi lebih lanjut tentang uji klinis?
+    - Di mana saya dapat mempelajari informasi lebih lanjut tentang cara membuat Petunjuk Lanjutan Psikiatri?
+    - Apa itu kesehatan mental?
+    - Apa yang harus saya lakukan jika dukungan tidak membantu?
+    - Bisakah Anda mencegah masalah kesehatan mental?
+    - Apakah ada obat untuk masalah kesehatan mental?
+    - Apa penyebab masalah kesehatan mental?
+    - Apa yang harus saya lakukan jika saya khawatir dengan kesehatan mental saya?
+    - Bagaimana saya tahu kalau saya tidak sehat?
+    - Apa yang harus saya lakukan jika saya mengkhawatirkan teman atau saudara?
+    - Bagaimana cara saya menghadapi seseorang yang memberi tahu saya apa yang harus saya lakukan?
+    - Mengapa saya perlu terus mendapat informasi?
+    - Bagaimana cara mengetahui informasi kesehatan itu baik atau buruk?
+    - Mengapa saya memerlukan rencana?
+    - Bagaimana saya bisa menjaga hubungan sosial? Bagaimana jika saya merasa kesepian?
+    - Bagaimana saya bisa menjaga kesehatan fisik saya?
+    - Bagaimana saya dapat menggunakan gangguan untuk mengelola pikiran atau perasaan yang sulit?
+    - Bagaimana saya dapat mengubah situasi dan menemukan perspektif yang lebih seimbang?
+    - Bagaimana saya bisa menantang jebakan pemikiran?
+    - Bagaimana saya bisa mengatasi kesedihan?
+    - Bagaimana saya bisa menemukan dokter, psikiater, psikolog, atau konselor?
+    - Bagaimana cara menemui psikiater?
+    - Bagaimana saya bisa menemui psikolog?
+    - Bagaimana saya bisa menemui konselor?
+    - Bagaimana saya bisa menemukan kelompok pendukung?
+    - Di mana saya dapat menemukan layanan kesehatan mental anak dan remaja?
+    - Di mana lansia dapat memperoleh bantuan untuk masalah kesehatan mental?
+    - Di mana saya dapat menemukan materi bantuan mandiri untuk depresi?
+    - Di mana saya dapat menemukan materi bantuan mandiri untuk mengatasi kecemasan?
+    - Saya mengalami kesulitan mengatasi masalah kesehatan fisik. Di mana saya bisa mendapatkan bantuan?
+    - Kapan penggunaan narkoba menjadi masalah? Kemana saya bisa mencari bantuan?
+    - Di mana saya bisa mendapatkan konseling gratis atau berbiaya rendah?
+    - Bisakah saya mendapatkan bantuan untuk membayar obat resep?
+    - Bagaimana saya bisa membayar perawatan kesehatan mental?
+    - Bagaimana cara saya mengajukan permohonan bantuan pendapatan?
+    - Apa itu MSP?
+    - Apa itu rujukan?
+    - Apa perbedaan antara psikiater dan psikolog terdaftar?
+    - Apa perbedaan antara psikoterapi dan konseling?
+    - Apa perbedaan antara CBT dan DBT?
+    - Apa perbedaan antara antidepresan?
+    - Saya menerima diagnosis tetapi menurut saya itu tidak benar. Apa yang bisa saya lakukan?
+    - Saya diberi resep antidepresan atau obat psikiatri lainnya tetapi menurut saya obat itu tidak berhasil. Apa yang bisa saya lakukan?
+    - Orang dewasa dalam hidup saya tampaknya sakit dan tidak dapat menemukan pertolongan. Apa yang bisa saya lakukan?
+    - Saya khawatir tentang anak atau remaja saya. Di mana saya bisa mendapatkan bantuan?
+    - Seseorang yang saya sayangi mengalami cedera otak. Di mana saya dapat menemukan informasi lebih lanjut?
+    - Seseorang yang saya cintai telah didiagnosis menderita depresi. Bagaimana saya bisa membantu?
+    - Seseorang yang saya cintai telah didiagnosis menderita skizofrenia. Bagaimana saya bisa membantu?
+    - Saya seorang anak muda dan salah satu orang tua saya menderita penyakit mental. Apa yang bisa saya lakukan?
+    - Saya mempunyai pikiran untuk bunuh diri, atau seseorang yang saya sayangi sedang membicarakan tentang bunuh diri. Apa yang harus saya lakukan?
+    - Ganja secara hukum diperbolehkan untuk usia 19+ tetapi ada kelompok dokter yang mengatakan bahwa ganja berpotensi berbahaya bagi usia 25 tahun. Adakah kegunaan atau kegunaan tertentu? Apa itu mitos dan apa faktanya? Jika saya adalah orang tua, apa yang harus saya sampaikan kepada orang dewasa muda saya?
+    - Apa perbedaan antara kesehatan mental dan penyakit mental?
+    - Di mana saya dapat menemukan informasi lebih lanjut tentang depresi?
+    - Apa perbedaan antara kecemasan dan gangguan kecemasan?
+    - Apa perbedaan antara kecemasan dan stres?
+    - Apa perbedaan antara kesedihan dan depresi?
+    - Apa itu distimia atau gangguan depresi persisten?
+    - Apa itu gangguan siklotimik?
+    - Apa yang dimaksud dengan bersepeda cepat?
+    - Di mana saya dapat menemukan informasi dan bantuan untuk gangguan kepribadian ambang?
+    - Apa itu gangguan kepribadian skizoid?
+    - Apa itu gangguan kepribadian antisosial?
+    - Apa itu gangguan kepribadian obsesif-kompulsif?
+    - Apa itu gangguan makan berlebihan?
+    - Apa perbedaan antara gangguan identitas disosiatif (gangguan kepribadian ganda) dan skizofrenia?
+    - Apa perbedaan antara psikosis dan skizofrenia?
+    - Apa saja gejala positif dan negatifnya?
+    - Apa itu prodromal?
+    - Saya sudah dewasa dan saya pikir saya mungkin menderita ADHD. Apa yang bisa saya lakukan selanjutnya?
+    - Apa perbedaan antara penggunaan narkoba dan kecanduan?
+    - Bagaimana saya bisa mendapatkan bantuan untuk masalah penggunaan alkohol atau narkoba?
+    - Bagaimana saya tahu kalau saya minum terlalu banyak?
+    - Jika ganja berbahaya, mengapa kita melegalkannya?
+    - Bagaimana cara meyakinkan anak saya untuk tidak menggunakan narkoba?
+    - Apa status hukum (dan bukti) minyak CBD?
+    - Apa buktinya tentang vaping?

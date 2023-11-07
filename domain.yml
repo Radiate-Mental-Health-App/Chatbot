@@ -1,0 +1,27 @@
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
+intents:
+  - question
+  - search_google
+
+responses:
+  utter_start:
+    - text: "Hi! apakah kamu punya pertanyaan seputar Kesehatan Mental? chatbot ini dirancang untuk menjawab pertanyaan seputar Kesehatan Mental, serta memberitahukan informasi Kesehatan Mental. \nAnda bisa memberi pertanyaan seperti: \n- Bagaimana saya tahu kalau saya minum terlalu banyak? \n- apa itu kesehatan mental \nSedangkan untuk memeriksa informasi kesehatan mental anda dapat memberikan keyword 'Cek informasi' pada pertanyaan informasi kesehatan mental anda seperti: \n- Cek informasi kesehatan mental "
+  utter_i_am_a_bot:
+    - text: "saya adalah sebuah bot yang dibuat untuk menanggapi pertanyaan seputar Kesehatan Mental"
+  utter_goodbye:
+    - text: "Terima kasih sudah menggunakan chatbot ini, Bye!"
+  utter_out_of_scope:
+    - text: "maaf, ini bot untuk tanya jawab seputar Kesehatan Mental, sehingga tidak dapat menganggapi pertanyaan tersebut"
+actions:
+  - "..."
+  - utter_start
+  - utter_i_am_a_bot
+  - utter_out_of_scope
+  - action_get_answer
+  - action_get_hoax_faq_answer
+  - action_search_google
+  - action_show_options
+  - action_option_1
+  - action_option_2

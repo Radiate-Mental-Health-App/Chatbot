@@ -1,0 +1,10 @@
+stories:
+  - story: interaksi_story_1
+    steps:
+      - intent: question
+      - action: action_search_google
+
+  - story: interaksi_story_3
+    steps:
+      - intent: search_google
+      - action: action_search_google

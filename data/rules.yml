@@ -1,0 +1,40 @@
+rules:
+#  - rule: respond to FAQs
+#    steps:
+#    - intent: faq
+#    - action: utter_faq
+
+#  - rule: respond to question
+#    steps:
+#    - intent: question
+#    - action: action_get_answer
+
+#  - rule: respond to hoax news
+#    steps:
+#    - intent: hoax_faq
+#    - action: action_get_hoax_faq_answer
+
+#  - rule: respond to search google
+#    steps:
+#    - intent: search_google
+#    - action: action_search_google
+
+#  - rule: start
+#    steps:
+#    - intent: start
+#    - action: utter_start
+
+#  - rule: goodbye
+#    steps:
+#    - intent: goodbye
+#    - action: utter_goodbye
+
+#  - rule: out of scope
+#    steps:
+#    - intent: out_of_scope
+#    - action: utter_out_of_scope
+
+#  - rule: are you a bot
+#    steps:
+#    - intent: bot
+#    - action: utter_i_am_a_bot

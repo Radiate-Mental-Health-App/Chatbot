@@ -1,0 +1,18 @@
+[
+  {
+    "text": "cari informasi",
+    "intent": "search_google",
+    "intent_prediction": {
+      "name": "question",
+      "confidence": 0.9951919317245483
+    }
+  },
+  {
+    "text": "cek berita Vaksin Polio Bill Gates Justru Membuat Anak-Anak di India Lumpuh",
+    "intent": "search_google",
+    "intent_prediction": {
+      "name": "question",
+      "confidence": 0.9198086857795715
+    }
+  }
+]

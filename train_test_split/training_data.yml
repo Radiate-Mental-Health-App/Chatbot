@@ -1,0 +1,87 @@
+version: "2.0"
+nlu:
+- intent: search_google
+  examples: |
+    - cari berita
+    - cek berita
+    - Cek berita Perubahan Tarif Transaksi Bank Aceh Kepada Bank Lain
+    - cek berita Ilmuwan Jepang Menemukan Cara Menjadi Tembus Pandang
+    
+- intent: question
+  examples: |
+    - halo
+    - start
+    - mati kau
+    - Hey!
+    - Mengapa Tirto mengambil data dari Mafindo?
+    - apa kau bot?
+    - bagaimana karakter dari sebuah hoax yang disebarkan di twitter?
+    - hai
+    - gila
+    - misi Serikat Jurnalis untuk Keberagaman (SEJUK)
+    - bot
+    - berhenti bertanya
+    - PSA tersebar di platform apa?
+    - apa penyebab sering munculnya situs-situs yang menyebarkan informasi hoaks?
+    - Kerugian apa yang dialami oleh media yang diserang oleh hoaks?
+    - heleh
+    - apa tujuan dari lembaga Serikat Jurnalis untuk Keberagaman (SEJUK) ?
+    - bagaimana pendapat dari sudut pandang MUI mengenai hoax bertema agama?
+    - hallo
+    - bye
+    - tentang Serikat Jurnalis untuk Keberagaman (SEJUK)
+    - gak guna
+    - bagaimana machine learning dapat membantu dalam menangani hoax?
+    - mengapa fenomena penyebaran hoax dapat terjadi?
+    - hello
+    - fenomena masyarakat dalam melihat hoax?
+    - selamat tinggal
+    - bacottt
+    - apa itu Pubic Service Announcemen (PSA) ?
+    - minta judul
+    - cara kerja machine learning dalam menangani hoax?
+    - apa alasan Tirto membuat riset mandiri terkait hoax di tahun 2020 ?
+    - apa itu literasi digital?
+    - pagi
+    - siang
+    - Serikat Jurnalis untuk Keberagaman (SEJUK) lembaga apa?
+    - bagaimana cara untuk menangani hoax yang tersebar di media sosial?
+    - kenapa hoaks bisa menyerang media-media informasi?
+    - apa saja bentuk hoaks yang menyerangan media-media informasi ?
+    - lapet
+    - mengapa hoax yang bertema agama selalu dikaitkan dengan politik ?
+    - ada situs-situs yang menyebarkan berita hoaks, kira-kira apa pendapat jurnalis mengenai situs-situs tersebut?
+    - /start
+    - Are you a bot?
+    - robot bacot
+    - apakah facebook memiliki pihak ketiga dalam memeriksa fakta dari berita hoax?
+    - Mafindo
+    - apa ini manusia
+    - bukan urusan mu
+    - apa penyebab facebook memiliki banyak penyebaran hoax?
+    - dapur
+    - adakah perbedaan hoax yang tersebar di berbagai media sosial?
+    - penis
+    - apakah misinformasi, disinformasi / hoax itu sama?
+    - gempa
+    - malam
+    - dah
+    - bla bla bla
+    - Tips & trik untuk melawan hoax
+    - jelek
+    - apa manfaat hasil riset mandiri Tirto untuk para pemangku kepentingan seperti platform media sosial?
+    - see you around
+    - siapa oknum atau orang-orang yang suka menyebarkan hoax ?
+    - ini chatbot
+    - apa tujuan dari Pubic Service Announcemen (PSA) ?
+    - la la la
+    - Hi
+    - bagaimana tingkat literasi digital di masyarakat Indonesia ?
+    - Bagaimana manfaat riset mandiri Tirto terkait hoax itu sendiri?
+    - terserah
+    - tidak suka
+    - apakah banyak berita hoax pandemi yang dikaitkan dengan politik?
+    - apakah facebook memiliki langkah dalam menangani disinformasi ?
+    - is this a chatbot
+    - apa pentingnya kecakapan literasi pada pelajar dalam menangkal hoax?
+    - see you later

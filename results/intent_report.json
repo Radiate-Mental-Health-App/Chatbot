@@ -1,0 +1,31 @@
+{
+  "search_google": {
+    "precision": 1.0,
+    "recall": 0.8181818181818182,
+    "f1-score": 0.9,
+    "support": 11,
+    "confused_with": {
+      "question": 2
+    }
+  },
+  "question": {
+    "precision": 0.8181818181818182,
+    "recall": 1.0,
+    "f1-score": 0.9,
+    "support": 9,
+    "confused_with": {}
+  },
+  "accuracy": 0.9,
+  "macro avg": {
+    "precision": 0.9090909090909092,
+    "recall": 0.9090909090909092,
+    "f1-score": 0.9,
+    "support": 20
+  },
+  "weighted avg": {
+    "precision": 0.9181818181818182,
+    "recall": 0.9,
+    "f1-score": 0.9,
+    "support": 20
+  }
+}

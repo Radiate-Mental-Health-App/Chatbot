@@ -1,0 +1,68 @@
+version: "2.0"
+nlu:
+  # - intent: start
+  #   examples: |
+  #     - Hi
+  #     - Hey!
+  #     - hello
+  #     - hallo
+  #     - halo
+  #     - hai
+  #     - pagi
+  #     - siang
+  #     - malam
+  #     - /start
+  #     - start
+
+  # - intent: goodbye
+  #   examples: |
+  #     - bye
+  #     - goodbye
+  #     - selamat tinggal
+  #     - dah
+  #     - see you later
+  #     - see you around
+  #     - bye bye
+
+  # - intent: bot
+  #   examples: |
+  #     - Are you a bot?
+  #     - apa kau bot?
+  #     - bot
+  #     - apa ini manusia
+  #     - is this a chatbot
+  #     - ini chatbot
+
+  - intent: search_google
+    examples: |
+      - cek berita
+      - cari berita
+      - cari informasi
+      - Cek berita UGM Akan Bentuk Satgas Kesehatan Mental
+      - Cek berita Ini Cara IPB Fasilitasi Kesehatan Mental Para Mahasiswa
+      - Cek berita 4 Dampak Silent Treatment pada Kesehatan dan Cara Mengatasinya
+
+# - intent: out_of_scope
+#   examples: |
+#     - gila
+#     - bacottt
+#     - mati kau
+#     - minta judul
+#     - lapet
+#     - fuck
+#     - robot bacot
+#     - gak guna
+#     - bla bla bla
+#     - penis
+#     - jelek
+#     - laptop
+#     - gempa
+#     - astaga
+#     - heleh
+#     - dapur
+#     - berhenti bertanya
+#     - terserah
+#     - bukan urusan mu
+#     - tidak suka
+#     - la la la
+
