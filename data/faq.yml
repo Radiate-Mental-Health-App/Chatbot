@@ -26,13 +26,13 @@ nlu:
     - Where can I learn more information about clinical trials?
     - Where can I learn more information about creating a Psychiatric Advance Directive?
     - What is mental health?
-    - What do I do if the support doesn't help?
+    - What do I do if the support doesn’t help?
     - Can you prevent mental health problems?
     - Are there cures for mental health problems?
     - What causes mental health problems?
-    - What do I do if I'm worried about my mental health?
-    - How do I know if I'm unwell?
-    - What should I do if I'm worried about a friend or relative?
+    - What do I do if I’m worried about my mental health?
+    - How do I know if I’m unwell?
+    - What should I do if I’m worried about a friend or relative?
     - How do I deal with someone telling me what to do?
     - Why do I need to keep informed?
     - How can I tell if health information is good or bad?
@@ -52,7 +52,7 @@ nlu:
     - Where can older adults find help for mental health concerns?
     - Where can I find self-help materials for depression?
     - Where can I find self-help materials for anxiety?
-    - I'm having a hard time coping with a physical health problem. Where can I find help?
+    - I’m having a hard time coping with a physical health problem. Where can I find help?
     - When is substance use a problem? Where can I go for help?
     - Where can I find free or low-cost counselling?
     - Can I get help paying for prescription medications?
@@ -64,19 +64,19 @@ nlu:
     - What's the difference between psychotherapy and counselling?
     - What's the difference between CBT and DBT?
     - What's the difference between antidepressants?
-    - I received a diagnosis but I don't think it's right. What can I do?
-    - I was prescribed an antidepressant or other psychiatric medication but I don't think it's working. What can I do?
-    - An adult in my life seems ill and won't find help. What can I do?
-    - I'm worried about my child or teenager. Where can I find help?
+    - I received a diagnosis but I don’t think it’s right. What can I do?
+    - I was prescribed an antidepressant or other psychiatric medication but I don’t think it’s working. What can I do?
+    - An adult in my life seems ill and won’t find help. What can I do?
+    - I’m worried about my child or teenager. Where can I find help?
     - Someone I care about has a brain injury. Where can I find more information?
     - Someone I love has been diagnosed with depression. How can I help?
     - Someone I love has been diagnosed with schizophrenia. How can I help?
-    - I'm a young person and one of my parents has a mental illness. What can I do?
+    - I’m a young person and one of my parents has a mental illness. What can I do?
     - I have thoughts of suicide, or someone I care about is talking about suicide. What should I do?
-    - Cannabis is legally allowed to 19+ but there are doctor groups saying it's potentially harmful to age 25. Any use or certain use? What's myth and what's fact? If I'm a parent, what should I tell my young adult?
+    - Cannabis is legally allowed to 19+ but there are doctor groups saying it’s potentially harmful to age 25. Any use or certain use? What’s myth and what’s fact? If I’m a parent, what should I tell my young adult?
     - What's the difference between mental health and mental illness?
     - Where can I find more information about depression?
-    - What's the difference between anxiety and an anxiety disorder?
+    - What’s the difference between anxiety and an anxiety disorder?
     - What's the difference between anxiety and stress?
     - What's the difference between sadness and depression?
     - What is dysthymia or persistent depressive disorder?
@@ -87,12 +87,12 @@ nlu:
     - What is antisocial personality disorder?
     - What is obsessive-compulsive personality disorder?
     - What is binge-eating disorder?
-    - What's the difference between dissociative identity disorder (multiple personality disorder) and schizophrenia?
+    - What’s the difference between dissociative identity disorder (multiple personality disorder) and schizophrenia?
     - What's the difference between psychosis and schizophrenia?
     - What are positive and negative symptoms?
     - What is a prodrome?
-    - I'm an adult and I think I might have ADHD. What can I do next?
-    - What's the difference between substance use and addiction?
+    - I’m an adult and I think I might have ADHD. What can I do next?
+    - What’s the difference between substance use and addiction?
     - How can I find help for an alcohol or drug use problem?
     - How do I know if I'm drinking too much?
     - If cannabis is dangerous, why are we legalizing it?
