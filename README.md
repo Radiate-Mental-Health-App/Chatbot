@@ -1,12 +1,12 @@
 # Chatbot
 
 # installing
-python 3.10.10
-pip install rasa
-pip install fuzzywuzzy
-pip install pandas
-pip install pymongo
-pip install google-api-python-client
+- python 3.10.10
+- pip install rasa
+- pip install fuzzywuzzy
+- pip install pandas
+- pip install pymongo
+- pip install google-api-python-client
 
 # jalankan run actions di cmd(1) - ini cmd tersendiri 
 rasa run actions 
