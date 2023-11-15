@@ -17,7 +17,7 @@ def _connect_mongo(username, password):
     """ A util for making a connection to mongo """
 
     if username and password:
-        mongo_uri = 'mongodb+srv://%s:%s@cluster0.khqzqbq.mongodb.net/?retryWrites=true&w=majority' % (username, password)
+        mongo_uri = 'mongodb+srv://%s:%s@cluster0.6f6shz8.mongodb.net/' % (username, password)
         conn = MongoClient(mongo_uri)
     else:
         print("koneksi mongodb gagal")
@@ -30,7 +30,7 @@ def _connect_mongo(username, password):
 class ActionSearchGoogle(Action):
     def __init__(self):
 
-         db = _connect_mongo(username='skripsiuser', password='skripsi123')['test']
+         db = _connect_mongo(username='afisina10', password='radiatemongodb')['test']
          cursor = db['qnas'].find()
          self.faq =  pd.DataFrame(list(cursor))
         
