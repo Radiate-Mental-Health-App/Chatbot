@@ -1,7 +1,7 @@
-## Chatbot Development
+## Chatbot Development 🤖
 This repository contains a chatbot implementation using Python 3.10.10 along with several required dependencies. The chatbot utilizes the Rasa library, fuzzywuzzy, pandas, pymongo, and google-api-python-client to deliver a versatile and dynamic conversational experience.
 
-## Installation
+## Installation 🛠️
 1. Install Python 3.10.10 : https://www.python.org/downloads/release/python-31010/
 2. Open your command prompt or terminal and execute the following commands :
    ```
@@ -10,7 +10,7 @@ This repository contains a chatbot implementation using Python 3.10.10 along wit
    pip install pandas
    pip install pymongo
    pip install google-api-python-client
-## Running the Chatbot
+## Running the Chatbot ▶️
 1. Run actions
    To execute run actions, open a separate command prompt or terminal window. Use the following       command:
    cmd 1
@@ -31,5 +31,5 @@ This repository contains a chatbot implementation using Python 3.10.10 along wit
    This command starts the chatbot, enabling it's API and allowing communication. Feel free to connect and interact with the chatbot through the provided API.
 
 
-#### Note
+#### Note 📝
 Ensure that all dependencies are correctly installed, and the Python environment is set up before running the chatbot.
