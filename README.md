@@ -10,7 +10,6 @@ This repository contains a chatbot implementation using Python 3.10.10 along wit
    pip install pandas
    pip install pymongo
    pip install google-api-python-client
-
 ## Running the Chatbot
 1. Run actions
    To execute run actions, open a separate command prompt or terminal window. Use the following       command:
@@ -32,5 +31,5 @@ This repository contains a chatbot implementation using Python 3.10.10 along wit
    This command starts the chatbot, enabling it's API and allowing communication. Feel free to connect and interact with the chatbot through the provided API.
 
 
-### Note
+#### Note
 Ensure that all dependencies are correctly installed, and the Python environment is set up before running the chatbot.
